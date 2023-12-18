@@ -6,7 +6,9 @@ Change profiles of Shelly TRVs of a user based on the presentness of his/her MAC
 
 Modify parameters in script, write the script e.g. to `/config/scripts/shelly-trv.sh` and have a line like this in the `/etc/crontab` file of your EdgeRouter (updating every 10minutes) to call the schedule_profile of per-user-relevant Shelly TRVs based on the availability of ethernet devices of this user.
 
-`*/10 *   * * *   root    /bin/sh /config/scripts/shelly-trv.sh`
+```
+*/10 *   * * *   root    /bin/sh /config/scripts/shelly-trv.sh
+```
 
 ## parameters
 
