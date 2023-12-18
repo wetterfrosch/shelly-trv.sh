@@ -12,7 +12,7 @@ ethernetDevices="ac:ab:13:12:ac:01,userA,mobile
 ac:ab:13:12:ac:02,userA,laptop
 ac:ab:13:12:ac:20,userB,mobile"
 
-thermostatDevices="ac:ab:13:12:00:01,userA,shellytrv-ACAB13120001"
+thermostatDevices="ac:ab:13:12:00:01,userA,shellytrv-ACAB13120001
 ac:ab:13:12:00:02,userB,shellytrv-ACAB13120002"
 
 secret="secret00!"
