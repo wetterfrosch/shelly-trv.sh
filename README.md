@@ -1,6 +1,6 @@
 # shelly-trv.sh
 
-Change profile of the Shelly TRVs of a user based on the presentness of MAC-addresses by its user, seen by a VyattaOS/Ubiquiti EdgeRouter.
+Change profiles of Shelly TRVs of a user based on the presentness of his/her MAC-addresses, as seen by a VyattaOS/Ubiquiti EdgeRouter.
 
 ## usage
 
