@@ -99,10 +99,6 @@ for user in $userList; do
 				printf " ERR!!\n"
 			fi
 		done
-		
-
-
-
 	fi
 done
 
